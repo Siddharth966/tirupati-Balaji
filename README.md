@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Tirupati Balaji Temple Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive website for Sri Venkateswara Temple (Tirupati Balaji) built with React, featuring multilingual support, darshan booking, and comprehensive temple information.
+
+## Features
+
+- 🏛️ **12 Comprehensive Pages** - Home, About, History, Wonders, Holy Places, How to Visit, Prasadam, Mundan, Precautions, Booking, Trip Planning, Contact
+- 📱 **Fully Responsive Design** - Optimized for mobile, tablet, and desktop
+- 🌍 **Multilingual Support** - English, Hindi, and Marathi translations
+- ⚡ **Performance Optimized** - 40-50% faster animations for mobile
+- 🎨 **Beautiful UI** - Tailwind CSS with Framer Motion animations
+- 🔄 **Client-Side Routing** - Smooth SPA navigation with React Router
 
 ## Available Scripts
 
@@ -21,13 +30,47 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
+Builds the app for production to the `build` folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
+The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Deployment Guide
+
+### Vercel (Recommended - Fastest Setup)
+1. Push code to GitHub
+2. Go to [vercel.com](https://vercel.com)
+3. Connect your GitHub repository
+4. Click Deploy (automatic from `main`/`master` branch)
+
+**Automatic build:** Vercel detects `package.json` and runs `npm run build`
+
+### Netlify
+1. Push code to GitHub
+2. Go to [netlify.com](https://netlify.com)
+3. Connect your GitHub repository
+4. Build command: `npm run build`
+5. Publish directory: `build`
+6. Click Deploy
+
+### GitHub Pages
+Update `package.json`:
+```json
+"homepage": "https://yourusername.github.io/tirupati-balaji"
+```
+Then push to GitHub and enable Pages in repository settings.
+
+## Environment Variables
+No environment variables required for deployment.
+
+## Tech Stack
+
+- **Frontend:** React 19, React Router 7
+- **Styling:** Tailwind CSS 3 with custom animations
+- **Animations:** Framer Motion
+- **Internationalization:** i18next
+- **Icons:** Lucide React
 
 ### `npm run eject`
 
