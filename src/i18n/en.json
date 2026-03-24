@@ -1,0 +1,184 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Blog",
+    "history": "Mythological History",
+    "wonders": "Wonders",
+    "holyPlaces": "Holy Places",
+    "howToVisit": "How to Visit",
+    "precautions": "Precautions",
+    "prasadam": "Annaprasadam",
+    "booking": "Booking Info",
+    "mundan": "Tonsure (Mundan)",
+    "tripPlanning": "Trip Planning & Budget",
+    "language": "Language",
+    "translate": "Translate"
+  },
+  "hero": {
+    "om": "ॐ नमो वेंकटेशाय नमः",
+    "title": "Lord Sri Balaji Mandir",
+    "subtitle": "& Other Sacred Information",
+    "tagline": "....From Personal Experience....",
+    "description": "A humble attempt to share information about Sri Swami Venkatesha — the Kali Yuga avatar of Lord Vishnu residing on the Saptagiri mountain range at Tirumala, Tirupati, Andhra Pradesh.",
+    "explore": "Explore the Divine",
+    "learnMore": "Learn More"
+  },
+  "about": {
+    "title": "About This Blog",
+    "subtitle": "An Open Book",
+    "text": "From childhood, we have heard about gods and their appearances from our elders, and seen various gods and their miracles through movies and TV. We all have a deep desire to see, know, and experience God personally. All these experiences can be felt at Tirumala — the sacred place on the Saptagiri mountain range in Tirupati district (old district Guntur), Andhra Pradesh. It is the fortune of all earth's residents that we can witness Lord Vishnu in person at this most sacred and spiritually powerful place.",
+    "readMore": "Read More"
+  },
+  "history": {
+    "title": "Mythological History",
+    "content": "Lord Venkateswara, also known as Balaji, Srinivasa, and Govinda, is a form of Lord Vishnu who is said to have taken abode at Tirumala to liberate all beings of the Kali Yuga. Ancient scriptures describe this sacred mountain as one of the most powerful spiritual centers on Earth. The seven peaks of Tirumala represent the seven heads of Adishesha — the cosmic serpent on whom Lord Vishnu rests."
+  },
+  "wonders": {
+    "title": "Divine Wonders",
+    "subtitle": "Miraculous Phenomena at Tirumala",
+    "list": [
+      { "title": "The Sacred Flag", "desc": "The flag atop the temple always faces the wind, regardless of its direction — a divine phenomenon observed daily." },
+      { "title": "The Eternal Lamp", "desc": "The sacred lamp in the sanctum has been burning continuously for hundreds of years without interruption." },
+      { "title": "The Fragrant Deity", "desc": "The idol of Lord Venkateswara emanates a natural fragrance without any external perfume." },
+      { "title": "The Divine Hair", "desc": "The hair on the idol remains soft and tangle-free, and devotees believe it grows naturally." },
+      { "title": "The Chakra Miracle", "desc": "The Sudarshana Chakra (disc) on the temple tower can be seen from all four sides simultaneously." },
+      { "title": "The Temperature Mystery", "desc": "The backside of the idol feels cool in summer and warm in winter — a mystery that defies natural explanation." }
+    ]
+  },
+  "holyPlaces": {
+    "title": "Holy Places",
+    "subtitle": "Sacred Sites Around Tirumala",
+    "places": [
+      { "name": "Sri Venkateswara Temple", "desc": "The main temple on Tirumala hill, one of the most visited pilgrimage sites in the world." },
+      { "name": "Akasaganga", "desc": "A sacred waterfall where devotees bathe before darshan." },
+      { "name": "Papavinasam", "desc": "A waterfall believed to cleanse all sins of devotees who bathe here." },
+      { "name": "Sri Padmavathi Temple", "desc": "Located in Tiruchanur, dedicated to Goddess Padmavathi, consort of Lord Venkateswara." },
+      { "name": "Kapila Theertham", "desc": "A sacred waterfall and Shiva temple at the base of Tirumala hills." },
+      { "name": "Srivari Museum", "desc": "A museum displaying the history and artifacts of the Tirumala temple." }
+    ]
+  },
+  "howToVisit": {
+    "title": "How to Visit",
+    "subtitle": "Complete Pilgrimage Guide",
+    "steps": [
+      { "step": "01", "title": "Book Online", "desc": "Visit TTD's official website to book darshan tickets, accommodation, and hair tonsure slots in advance." },
+      { "step": "02", "title": "Travel to Tirupati", "desc": "Tirupati is well connected by air, rail, and road. The nearest airport is Tirupati Airport." },
+      { "step": "03", "title": "Climb or Take Bus", "desc": "You can either walk (about 12 km) via the traditional path or take TTD buses from Tirupati." },
+      { "step": "04", "title": "Queue & Darshan", "desc": "Join the queue at the temple complex. Darshan types include free, special entry (Rs. 300), and VIP." },
+      { "step": "05", "title": "Laddu Prasadam", "desc": "After darshan, collect the famous Tirupati Laddu — sanctioned prasadam available to all devotees." }
+    ]
+  },
+  "precautions": {
+    "title": "Precautions",
+    "subtitle": "Important Guidelines for Devotees",
+    "list": [
+      "Wear traditional attire — dhoti/sari or formal clothes. Western clothes like shorts and sleeveless tops are not permitted.",
+      "Do not carry mobile phones, cameras, or electronic devices inside the temple.",
+      "Maintain absolute silence and discipline inside the sanctum sanctorum.",
+      "Remove footwear before entering the temple premises.",
+      "Avoid eating non-vegetarian food during the pilgrimage.",
+      "Keep your token/ticket safe — it is required for entry.",
+      "Stay hydrated, especially during summer months when queues can be long.",
+      "Elderly and disabled devotees have special facilities — inquire at TTD counters."
+    ]
+  },
+  "prasadam": {
+    "title": "Annaprasadam",
+    "subtitle": "Sacred Community Meal",
+    "text": "The TTD (Tirumala Tirupati Devasthanams) provides free meals to lakhs of devotees daily at the Annaprasadam complex. This sacred community meal consists of rice, sambar, rasam, and other traditional dishes. It is served without any discrimination — rich or poor, all eat together as equals before the Lord. The meal is considered a blessing from the deity himself."
+  },
+  "booking": {
+    "title": "Booking Information",
+    "subtitle": "Plan Your Sacred Visit",
+    "info": [
+      { "label": "Official Website", "value": "tirupatibalaji.ap.gov.in" },
+      { "label": "Special Entry Darshan", "value": "₹300 per person" },
+      { "label": "Accommodation", "value": "Available at various TTD guest houses" },
+      { "label": "Booking Opens", "value": "60 days in advance" },
+      { "label": "Helpline", "value": "1800-425-1333 (Toll Free)" },
+      { "label": "Best Time to Visit", "value": "October to February" }
+    ]
+  },
+  "mundan": {
+    "title": "Mundan (Hair Sacrifice)",
+    "subtitle": "Why and Where to Perform",
+    "description": "Devotees offer their hair as a symbol of sacrificing something dear to God. It is a widespread tradition in South India for both children and adults.",
+    "locationsTitle": "Mundan Centers (Kalyankatta) Locations",
+    "locations": [
+      "Main Kalyankatta (Near temple entrance, next to shopping complex)",
+      "Mini Kalyankatta (Nandakam Complex, ground floor)",
+      "PAC I & II",
+      "Kaustubham Complex",
+      "Ram Bagicha Complex",
+      "Panchajanyam Complex",
+      "Sri Padmavati Guest House"
+    ],
+    "processTitle": "Mundan Process",
+    "process": [
+      "Biometric (eye scan) registration is required first.",
+      "A token and a fresh blade are provided (indicates hall and barber number).",
+      "Head must be wetted before starting to avoid injury.",
+      "The process typically takes 1 to 1.5 hours.",
+      "To offer only 3 strands, inform the staff as 'Modu Katteerlu'."
+    ],
+    "storageTitle": "Footwear Storage Centers",
+    "storage": [
+      "Near Main Kalyankatta",
+      "Near Matoshree Annaprasadalaya",
+      "Near Supadam Entrance"
+    ]
+  },
+  "tripPlanning": {
+    "title": "Trip Planning",
+    "subtitle": "Pune to Tirupati - 5 Day Itinerary",
+    "itinerary": [
+      { "day": "Day 1", "event": "Pune to Renigunta by Train (Departure 4:15 PM)" },
+      { "day": "Day 2", "event": "Arrival 8:00 AM at Renigunta, Freshen up at Srinivasam Complex, Local Temple Tour (Kapila Teertham, ISKCON, Padmavati Temple)" },
+      { "day": "Day 3", "event": "Travel to Tirumala, Mundan, and Main Darshan (Time slot around 8:00 PM - 10:00 PM)" },
+      { "day": "Day 4", "event": "Temple circumambulation, Bedi Anjaneya Swamy Darshan, Check out and return journey" },
+      { "day": "Day 5", "event": "Arrival in Pune at 8:00 AM" }
+    ],
+    "budgetTitle": "Estimated Budget (For 4 People)",
+    "budget": [
+      { "item": "Train Tickets (Round trip)", "cost": "₹4,000" },
+      { "item": "Accommodation (Rooms)", "cost": "₹1,200" },
+      { "item": "Darshan Tickets (Balaji + Padmavati)", "cost": "₹1,600" },
+      { "item": "Local Transport (Auto/Bus)", "cost": "₹1,000" }
+    ],
+    "budgetNote": "Note: Food cost is minimal due to the Free Annaprasadalaya service."
+  },
+  "contact": {
+    "title": "Let's Connect",
+    "name": "Name",
+    "namePlaceholder": "Enter your name",
+    "address": "Address",
+    "addressPlaceholder": "Enter your address",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "phone": "Phone",
+    "phonePlaceholder": "Enter your phone number",
+    "subject": "Subject",
+    "subjectPlaceholder": "Type the subject",
+    "message": "Message",
+    "messagePlaceholder": "Type your message here...",
+    "submit": "Submit",
+    "location": "Pune, India",
+    "success": "Thanks for submitting!"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "pilgrimage": "Pilgrimage Information",
+    "information": "Additional Information",
+    "followUs": "Follow Us",
+    "officialWebsite": "Official Website",
+    "helpline": "Toll Free Helpline",
+    "copyright": "© 2024 by Tirupati Balaji Information. All rights reserved.",
+    "disclaimerText": "This is an informational website created with devotion. For official information, visit tirupatibalaji.ap.gov.in",
+    "blessings": "May Lord Venkateswara bless you with divine grace and prosperity",
+    "contact": "Contact Us",
+    "blessed": "A Blessed Journey",
+    "aboutSite": "About This Site",
+    "description": "An informational platform dedicated to sharing knowledge about Sri Venkateswara Temple (Tirupati Balaji) - the abode of Lord Vishnu through personal experiences and verified information.",
+    "tagline": "Jai Balaji"
+  }
+}
